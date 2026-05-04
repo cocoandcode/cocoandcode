@@ -1,6 +1,4 @@
-Hi, I’m Ahmed Idris, a .NET developer and aspiring AI safety researcher with a fondness for caffeinated beverages.
-
-I’m interested in full stack development and artificial intelligence.
+Hi, I’m Ahmed Idris, a .NET developer and aspiring AI safety researcher with a fondness for caffeinated beverages.I’m mostly interested in ML for social good and ensuring the safety and alignment of AI agents.
 
 I’m looking to collaborate on any interesting projects, especially those pertaining the medical sector or improving education. 
 
