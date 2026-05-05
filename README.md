@@ -2,8 +2,6 @@ Hi, I’m Ahmed Idris, a .NET developer and aspiring AI safety researcher with a
 
 I’m looking to collaborate on any interesting projects, especially those pertaining the medical sector or improving education. 
 
-A recent endeavour of mine is designing a new programming language for improved ML utilities. Check out my "cognito" repo for more details.
-
 You can reach me via email at a9idris@gmail.com. Check the moral-uncertainty-aggregation, minigrid-rl-experiments, and MCVTrackerAp repositories for an idea of my skillset.
 
 <!---
